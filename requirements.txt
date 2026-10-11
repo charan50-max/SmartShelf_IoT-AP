@@ -1,0 +1,4 @@
+pyserial
+Pillow
+pytz
+reportlab
